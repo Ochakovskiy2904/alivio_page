@@ -9,7 +9,8 @@
     max-width: 420px;
     display: flex;
     flex-direction: column;
-    justify-content: start;align-items: start;
+    justify-content: start;
+    align-items: start;
 }
 
 .hero__title {
