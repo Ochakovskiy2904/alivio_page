@@ -3,11 +3,11 @@
     background-color: var(--co-white);
 }
 
-.about__subtitle {
+/* .about__subtitle {
     font-size: 24px;
     font-weight: 600;
     color: var(--co-light-black);
-}
+} */
 
 .about__content {
     display: flex;

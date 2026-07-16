@@ -63,6 +63,9 @@
     /* .card__title--right {
         align-self: center;
     }  */
+    .card__title--third::before {
+        left: -130px;
+    }
     .card__desc {
         font-size: 16px;
     }
